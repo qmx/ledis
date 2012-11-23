@@ -15,5 +15,8 @@
     "leveldb"
   ],
   "author": "Douglas Campos <qmx@qmx.me>",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+    "redis-protocol": "~0.1.9"
+  }
 }
