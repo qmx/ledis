@@ -1,0 +1,19 @@
+{
+  "name": "ledis",
+  "version": "0.0.0",
+  "description": "leveldb server using redis protocol",
+  "main": "ledis.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qmx/ledis.git"
+  },
+  "keywords": [
+    "redis",
+    "leveldb"
+  ],
+  "author": "Douglas Campos <qmx@qmx.me>",
+  "license": "BSD"
+}
