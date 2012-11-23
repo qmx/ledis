@@ -17,6 +17,7 @@
   "author": "Douglas Campos <qmx@qmx.me>",
   "license": "BSD",
   "dependencies": {
-    "redis-protocol": "~0.1.9"
+    "redis-protocol": "~0.1.9",
+    "levelup": "~0.3.1"
   }
 }
